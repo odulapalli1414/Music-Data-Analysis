@@ -26,6 +26,31 @@ Through complex queries involving **Joins**, **Window Functions**, **Subqueries*
 
 ---
 
+## ❓ Questions Answered in This Project
+
+### Question Set 1 - Easy
+
+1. **Who is the senior-most employee based on job title?**
+2. **Which countries have the most invoices?**
+3. **What are the top 3 values of total invoice amounts?**
+4. **Which city has the best customers?** We plan to throw a promotional Music Festival in the city where we made the most money. Query returns the city with the highest sum of invoice totals.
+5. **Who is the best customer?** The customer who has spent the most money will be declared the best customer.
+
+### Question Set 2 - Moderate
+
+1. **Email, First Name, Last Name & Genre of all Rock Music Listeners** - List ordered alphabetically by email.
+2. **Top 10 Rock Bands** - Query returns the artist name and total track count of the most prolific rock artists.
+3. **Tracks Longer than Average Song Length** - List of tracks with song lengths greater than the average, ordered by duration.
+
+### Question Set 3 - Advanced
+
+1. **Amount Spent by Each Customer on Artists** - Query returns customer name, artist name, and total amount spent.
+2. **Amount Spent by Each Customer on Top-Selling Artists** - Query returns customer name, artist name, and total spent on the highest-selling artists.
+3. **Most Popular Genre by Country** - Query returns the genre with the highest purchases in each country.
+4. **Top-Spending Customer by Country** - Query returns the top customer and amount spent for each country, with ties accounted for.
+
+---
+
 ## 💻 SQL Features Utilized
 
 - **Complex Joins:** Leveraged multi-table joins to connect customers, invoices, tracks, albums, and genres.
