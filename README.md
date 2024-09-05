@@ -40,7 +40,8 @@ Through complex queries involving **Joins**, **Window Functions**, **Subqueries*
 - **Queries:** A collection of well-structured SQL queries answering business-critical questions.
 - **Insights:** Key findings related to customer behavior, artist popularity, and genre trends.
 
-### [🔗 View the Full Project](#)
+![Schema](https://github.com/user-attachments/assets/7a894252-2b6b-44b4-8d45-d56165ec2f5b)
+
 
 ---
 
@@ -54,8 +55,7 @@ Through complex queries involving **Joins**, **Window Functions**, **Subqueries*
 
 ## 🤝 Connect with Me
 
-- 💼 [LinkedIn](#)
-- 📝 [Portfolio](#)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/odulapalli-hitesh/))
+- 📝 [Portfolio]([#](https://odulapalli1414.github.io/hitesh/))
 
 Thank you for visiting! Feel free to explore the queries and reach out if you have any questions!
