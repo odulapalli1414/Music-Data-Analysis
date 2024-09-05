@@ -28,6 +28,8 @@ Through complex queries involving **Joins**, **Window Functions**, **Subqueries*
 
 ## ❓ Questions Answered in This Project
 
+**Note:** Before attempting to answer the questions outlined in this project, please ensure that you have successfully imported the `Music_Store_database.sql` file from this repository. This SQL file contains all the necessary tables and data required to execute the queries and obtain the desired results.
+
 ### Question Set 1 - Easy
 
 1. **Who is the senior-most employee based on job title?**
