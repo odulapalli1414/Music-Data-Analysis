@@ -39,7 +39,8 @@ Through complex queries involving **Joins**, **Window Functions**, **Subqueries*
 
 - **Queries:** A collection of well-structured SQL queries answering business-critical questions.
 - **Insights:** Key findings related to customer behavior, artist popularity, and genre trends.
-
+  
+**Database Schema**
 ![Schema](https://github.com/user-attachments/assets/7a894252-2b6b-44b4-8d45-d56165ec2f5b)
 
 
