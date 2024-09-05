@@ -57,7 +57,7 @@ Through complex queries involving **Joins**, **Window Functions**, **Subqueries*
 
 ## 🤝 Connect with Me
 
-- 💼 [LinkedIn][https://www.linkedin.com/in/odulapalli-hitesh/]
-- 📝 [Portfolio][https://odulapalli1414.github.io/hitesh/]
+- 💼 [LinkedIn](https://www.linkedin.com/in/odulapalli-hitesh/)
+- 📝 [Portfolio](https://odulapalli1414.github.io/hitesh/)
 
 Thank you for visiting! Feel free to explore the queries and reach out if you have any questions!
